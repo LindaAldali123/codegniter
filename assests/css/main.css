@@ -1,0 +1,86 @@
+/*
+Theme Name: Elitecorp
+Theme coder: Osama Elzero
+PSD Designer:
+FirstColor:#08526d;
+SecondColor:#ec1c23;
+*/
+
+ 
+
+/* Start Navbar */
+.navbar-brand > span{
+	
+	font-size:35px;
+}
+
+.navbar-brand span:first-child{
+	font-weight: bold;
+	color:#08526d; 
+}
+.navbar-brand span:last-child{
+	color:#583c3d; 
+}
+.navbar-brand{
+	margin-left: -170px !important;
+	margin-right: 20px;
+}
+.navbar-nav .nav-link{
+	font-size: 18px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	color:#08526d !important;
+	font-weight:bold;     
+}
+.navbar-nav .active > .nav-link{
+color:#583c3d !important
+}
+.collapse{
+	margin-left: 60px !important
+}
+
+/* End Navbar */
+@media (max-width:840px){
+	.carousel slide{
+		width:100% !important;
+	}}
+	@media (max-width:400px){
+		.carousel slide{
+			display: block !important;
+			width:100% !important;
+		}}
+/* Start Footer */
+footer {
+    position: relative;
+    top: 300px;
+    background-color: #000022;
+    color: #fff;
+    padding: 10px;
+
+}
+/*End Footer */
+.dat{
+	margin-top: 30px !important;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 25px;
+	font:bold;
+	
+}
+
+.lo{
+	width: 100% !important;
+    height: 280px;
+	border-radius: 10px;
+	box-shadow: rgb(204, 204, 204) 1px 1px 15px 1px;
+    text-align: center;
+	margin: 0px;
+	margin-bottom: 15px ;
+	padding: 10px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+.im{
+	width: 320px !important;
+	height: 150px !important;
+}

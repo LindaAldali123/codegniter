@@ -1,0 +1,32 @@
+body{
+    background-color:  rgb(180, 178, 178);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sig{
+    width: 50%;
+    height: 500px !important;
+    background-color: #fff;
+    display: block;
+    margin:auto;
+    position: relative;
+    top: 60px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 30px rgba(0,0,0,0.5);
+   
+}
+H1{
+    margin-left: 20px !important;
+}
+.h{
+    border: 50%;
+    color:wheat;
+    box-shadow: 1px 1px 30px rgba(0,0,0,0.2);
+    height: 70px;
+    margin-right: -15px;
+    margin-left: -15px;
+    background-color: #08526d;
+    margin-bottom: 20px !important;
+}
+.btn1{
+    margin-top: 20px !important;
+}
